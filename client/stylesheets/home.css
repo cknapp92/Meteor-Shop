@@ -1,7 +1,7 @@
 .cover{
   color: rgb(255, 255, 255);
   position: relative;
-  min-height: 400px;
+  min-height: 300px;
   padding-top:20px;
   background: url("/images/box-of-chocolate.jpg") no-repeat scroll 0px 100% / cover transparent;
   border-bottom:9px solid #7b9ed0;
